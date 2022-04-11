@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nkspayne
-- 👀 I’m interested in Games & application development
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me https://web.facebook.com/nkechi.amaonye.55/
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!---
 nkspayne/nkspayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
